@@ -19,8 +19,8 @@ import { CustomComponent } from '@frontegg/types';
     FronteggAppModule.forRoot({
       contextOptions: {
         baseUrl: 'https://app-kcj0djtbjuee.frontegg.com',
-        clientId: 'a0fff686-59cd-4498-a5da-ef7def2a1613',
-        appId: '83367e6f-19ba-4d57-8693-a5965fb6a507',
+        clientId: '',
+        appId: '',
       },
       authOptions: {
         keepSessionAlive: true,
